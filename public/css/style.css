@@ -1,0 +1,8 @@
+.font-color-white{
+   color : #fff;
+}
+
+.post:hover .card-header{
+   color : brown;
+   cursor: pointer;
+}
