@@ -1,0 +1,15 @@
+[
+   {
+     "title": "CSS",
+     "body": "A simple mechanism for adding style (e.g., fonts, colors, spacing) to web documents."
+   },
+   {
+     "title": "Javascript",
+     "body": "An object-oriented computer programming language commonly used to create interactive effects within web browsers."
+   },
+   {
+     "title": "Node.js",
+     "body": "An open source, cross-platform runtime environment for executing JavaScript code."
+   }
+ ]
+ 
